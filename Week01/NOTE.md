@@ -1,1 +1,2 @@
-学习笔记
+本周学习了如何编写一个简单的爬虫：
+从最初级的request+BeautifulSoup到高级的scrapy框架，以及基本的xpath语法
